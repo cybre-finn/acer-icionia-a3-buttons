@@ -1,42 +1,42 @@
 solid OpenSCAD_Model
   facet normal -0 0.231621 0.972806
     outer loop
-      vertex 3.75 2.25 3.8
-      vertex 13 0.15 4.3
-      vertex 11.25 2.25 3.8
+      vertex 3.75 2.25 4
+      vertex 13 0.15 4.5
+      vertex 11.25 2.25 4
     endloop
   endfacet
   facet normal 0 0.231621 0.972806
     outer loop
-      vertex 13 0.15 4.3
-      vertex 3.75 2.25 3.8
-      vertex 2 0.15 4.3
+      vertex 13 0.15 4.5
+      vertex 3.75 2.25 4
+      vertex 2 0.15 4.5
     endloop
   endfacet
   facet normal -0.768221 0.640184 0
     outer loop
       vertex 2 0.15 0.4
-      vertex 3.75 2.25 3.8
+      vertex 3.75 2.25 4
       vertex 3.75 2.25 0.4
     endloop
   endfacet
   facet normal -0.768221 0.640184 0
     outer loop
-      vertex 3.75 2.25 3.8
+      vertex 3.75 2.25 4
       vertex 2 0.15 0.4
-      vertex 2 0.15 4.3
+      vertex 2 0.15 4.5
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
       vertex 2 0.15 0.4
-      vertex 13 0.15 4.3
-      vertex 2 0.15 4.3
+      vertex 13 0.15 4.5
+      vertex 2 0.15 4.5
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-      vertex 13 0.15 4.3
+      vertex 13 0.15 4.5
       vertex 2 0.15 0.4
       vertex 13 0.15 0.4
     endloop
@@ -44,13 +44,13 @@ solid OpenSCAD_Model
   facet normal 0.768221 0.640184 -0
     outer loop
       vertex 13 0.15 0.4
-      vertex 11.25 2.25 3.8
-      vertex 13 0.15 4.3
+      vertex 11.25 2.25 4
+      vertex 13 0.15 4.5
     endloop
   endfacet
   facet normal 0.768221 0.640184 0
     outer loop
-      vertex 11.25 2.25 3.8
+      vertex 11.25 2.25 4
       vertex 13 0.15 0.4
       vertex 11.25 2.25 0.4
     endloop
@@ -58,13 +58,13 @@ solid OpenSCAD_Model
   facet normal 0 1 -0
     outer loop
       vertex 11.25 2.25 0.4
-      vertex 3.75 2.25 3.8
-      vertex 11.25 2.25 3.8
+      vertex 3.75 2.25 4
+      vertex 11.25 2.25 4
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-      vertex 3.75 2.25 3.8
+      vertex 3.75 2.25 4
       vertex 11.25 2.25 0.4
       vertex 3.75 2.25 0.4
     endloop

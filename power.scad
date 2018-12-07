@@ -2,7 +2,7 @@ displayEdge = 11;
 caseEdge = 7.5;
 caseEdgeDiff = displayEdge-caseEdge;
 height = 2.1;
-depth = 4.1;
+depth = 4.3;
 zInterval = 0.5;
 translate([2,0.15,0.2])polyhedron(
        points=[[0,0,0], [displayEdge,0,0],
