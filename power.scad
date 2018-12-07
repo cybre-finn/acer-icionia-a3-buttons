@@ -1,5 +1,5 @@
 displayEdge = 11;
-caseEdge = 7.5;
+caseEdge = displayEdge-3.5;
 caseEdgeDiff = displayEdge-caseEdge;
 height = 2.1;
 depth = 4.3;
@@ -12,4 +12,4 @@ translate([2,0.15,0.2])polyhedron(
        faces=[[2,3,1,0],[4,5,7,6],[4,6,2,0],[1,5,4,0], [3,7,5,1], [2,6,7,3]]
        );
       
-cube([15,2.5,0.4]);
+cube([displayEdge+4,2.5,0.4]);
