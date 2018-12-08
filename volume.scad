@@ -1,4 +1,4 @@
-displayEdge = 23;
+displayEdge = 24;
 caseEdge = displayEdge-3.5;
 caseEdgeDiff = displayEdge-caseEdge;
 height = 2.1;
